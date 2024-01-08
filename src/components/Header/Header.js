@@ -9,9 +9,11 @@ function Header() {
         <img src={myImage} />
       </div>
       <div className="header-content">
-        <h1 className="gradient__text">Hi, I'm Suraj Sanganbhatla</h1>
-        <p>I'm a final year student pursuing Bachelor of Technology, at VNR Vignana Jyothi Institute of Engineering and Technology
-          (VNRVJIET) specializing in Computer Science and Business Systems.</p>
+        <h1 className="gradient__text">Hi, I'm Suraj Nag</h1>
+        <p>I'm an India-based data scientist and analyst with a goal-driven creative mindset and a passion for learning and innovating.
+        <br />
+        <br />
+        Currently working as a Data Analyst at Open Financial.</p>
       </div>
     </div>
   )
