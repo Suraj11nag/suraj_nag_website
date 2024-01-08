@@ -5,7 +5,7 @@ function Certifications() {
         <div className="features section__padding" id="certifications">
             <div className="features-heading">
                 <h1 className="gradient__text">Certifications</h1>
-                <p> <a href="https://www.linkedin.com/in/iamssuraj/details/certifications/" target='_blank'> To view more certifications & verify credentials, please click here. </a></p>
+                <p> <a href="https://www.linkedin.com/in/suraj11nag/details/certifications/" target='_blank'> To view more certifications & verify credentials, please click here. </a></p>
             </div>
 
 
