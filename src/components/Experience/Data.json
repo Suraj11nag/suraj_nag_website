@@ -1,18 +1,18 @@
 [
     {
         "head": "Open Financial Technologies",
-        "content": "In my role as a data scientist, I craft interactive visualizations using Looker and BigQuery, streamlining complex datasets for swift decision-making. I've optimized SQL queries, collaborated with cross-functional teams, and leveraged Python scripts to enhance data accessibility and drive strategic initiatives for product and finance teams."
+        "content": "In my role at Open Financial Technologies, I was deep into data analysis. We streamlined processes using Metabase, Looker, BigQuery, and even some Python scripting. It made collaboration across teams much smoother."
     },
     {
         "head": "Mojocare",
-        "content": "Enacted as the face of E-Cell, IIT Bombay in my campus, representing the company’s mission of developing the idea of entrepreneurship."
+        "content": "At Mojocare, it was all about efficiency. Task automation saved us valuable time, and with optimization and advanced modeling, we not only improved decision-making by 20% but also boosted data accuracy by a whopping 90%. It was a game-changer."
     },
     {
         "head": "Eloelo",
-        "content": "Code in Place is an introductory programming course using the Python language, based on material from the first half of Stanford University’s established intro course, CS106A."
+        "content": "Eloelo was exciting. I built and reported KPIs for a massive 500K-user mobile app. Setting up the data infrastructure with SQL was key, and I collaborated on elevating database standards to enhance our analytics game."
     },
     {
         "head": "Bosch",
-        "content": "Code in Place is an introductory programming course using the Python language, based on material from the first half of Stanford University’s established intro course, CS106A."
+        "content": "Over at Bosch, I had my hands full developing and maintaining data-driven systems. This included crafting a robust reporting system for production faults and log settings analysis."
     }
 ]
