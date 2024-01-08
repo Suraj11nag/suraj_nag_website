@@ -27,16 +27,16 @@
     flex-direction: row;
 }
 
-.extracurricular__container_groupA {
+/* .extracurricular__container_groupA {
     flex: 0.75;
     margin-right: 2rem;
-}
+} */
 
 .extracurricular__container_groupB {
     flex: 1;
 
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 2rem;
 }
 
