@@ -1,27 +1,33 @@
 [
     {
+      "head": "Machine Learning",
+      "link": "https://github.com/Suraj11nag/Machine-Learning-Project",
+      "content": "Developed machine learning models for predicting heart disease based on medical attributes."
+    },
+    {
+      "head": "Deep Learning",
+      "link": "https://github.com/Suraj11nag/dog-vision-deep-learning-project",
+      "content": "Created an end-to-end multi-class image classifier deep learning model using TensorFlow 2.0 and TensorFlow Hub."
+    },
+    {
       "head": "Data Visualization In Tableau",
-      "content": "This is the same website that you're looking at. Built this website in around 1.5 months using ReactJS."
+      "link": "https://public.tableau.com/app/profile/suraj.nag3006/vizzes",
+      "content": "Utilized Kaggle datasets to build a local database, perform EDA using SQL, and build data visualizations using Tableau."
     },
     {
-      "head": "Phished URL Detection using 1D CNN and LSTM",
-      "link": "https://github.com/iamssuraj/Phished-URL-Detection-System",
-      "content": "Developed a Phished URL detection system using a model architecture consisting of 1D CNN and LSTM layers, achieving an accuracy of around 95%."
+      "head": "Python",
+      "link": "https://github.com/Suraj11nag",
+      "content": "Proficient in web scraping, data analysis, and scripting using Python."
     },
     {
-      "head": "Interactive Lung Cancer Detection System",
-      "link": "https://github.com/iamssuraj/Interactive-Lung-Cancer-Detection-System",
-      "content": "Built an interactive lung cancer detection system using multiple Machine Learning algorithms such as Logistic Regression, DT, SVM, KNN, Random Forest, and Naive Bayes and ANN on a dataset from Kaggle, achieving a combined accuracy of 94.6183%."
+      "head": "Web App",
+      "link": "https://github.com/Suraj11nag/book-recommender",
+      "content": "Spam Detector and Book Recommender app, powered by machine learning and Streamlit."
     },
     {
-      "head": "Portfolio Website(Old version)",
-      "link": "https://iamssuraj-old.netlify.app/",
-      "content": "This is the first version of my portfolio, designed and developed this responsive portfolio website that highlights my education, experience, projects, and skills. Used HTML, CSS, a little JavaScript and Bootstrap."
-    },
-    {
-      "head": "FLAMES Website",
-      "link": "https://flamesbysuraj.netlify.app/",
-      "content": "Designed and developed a responsive website to demonstrate the ’FLAMES’ game, which predicts a hypothetical relationship between two people, using HTML, CSS and JavaScript."
+      "head": "AI App",
+      "link": "https://github.com/Suraj11nag/langchain",
+      "content": "Developed a domain-specific chatbot using LLMs and Langchain with external sources of computation and data."
     }
   ]
   

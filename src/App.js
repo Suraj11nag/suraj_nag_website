@@ -1,5 +1,5 @@
 import "./App.css";
-import Extracurricular from "./components/Extracurricular/Extracurricular.js";
+// import Extracurricular from "./components/Extracurricular/Extracurricular.js";
 import Education from "./components/Education/Education.js";
 import Projects from "./components/Projects/projects.js";
 import Header from "./components/Header/Header.js";
@@ -27,7 +27,7 @@ function App() {
               <p><a href='#education'>Education</a></p>
               <p><a href='#projects'>Projects</a></p>
               <p><a href='#certifications'>Certifications</a></p>
-              <p><a href='#extracurriculars'>Extracurriculars</a></p>
+              {/* <p><a href='#extracurriculars'>Extracurriculars</a></p> */}
               <p><a href='#volunteer'>Volunteer Experience</a></p>
               <p><a href='#contact'>Contact</a></p>
             </div>
@@ -47,7 +47,7 @@ function App() {
                       <p><a href='#education'>Education</a></p>
                       <p><a href='#projects'>Projects</a></p>
                       <p><a href='#certifications'>Certifications</a></p>
-                      <p><a href='#extracurriculars'>Extracurriculars</a></p>
+                      {/* <p><a href='#extracurriculars'>Extracurriculars</a></p> */}
                       <p><a href='#volunteer'>Volunteer Experience</a></p>
                       <p><a href='#contact'>Contact</a></p>
                     </div>
@@ -65,7 +65,7 @@ function App() {
       <Education />
       <Projects />
       <Certifications />
-      <Extracurricular />
+      {/* <Extracurricular /> */}
       <VolunteerExp />
       <Footer />
       <ScrollToTop smooth />

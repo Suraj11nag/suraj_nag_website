@@ -5,7 +5,7 @@ function VolunteerExp () {
         <div className="features section__padding" id="volunteer">
             <div className="features-heading">
                 <h1 className="gradient__text">Volunteer Experience</h1>
-                <p> <a href="https://www.linkedin.com/in/iamssuraj/details/volunteering-experiences/" target='_blank'> Please click here, to view my other volunteer experiences. </a></p>
+                <p> <a href="https://www.linkedin.com/in/suraj11nag/volunteering-experiences/" target='_blank'> Please click here, to view my other volunteer experiences. </a></p>
             </div>
 
 
