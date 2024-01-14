@@ -10,6 +10,11 @@
       "content": "Created an end-to-end multi-class image classifier deep learning model using TensorFlow 2.0 and TensorFlow Hub."
     },
     {
+      "head": "Data Engineering",
+      "link": "https://github.com/Suraj11nag/airflow_data_pipeline/tree/main/airflow",
+      "content": "Created a Forex Data pipeline to facilitate efficient data management and analysis for financial insights."
+    },
+    {
       "head": "Visualization",
       "link": "https://public.tableau.com/app/profile/suraj.nag3006/vizzes",
       "content": "Utilized Kaggle datasets to build a local database, perform EDA using SQL, and build data visualizations using Tableau."
